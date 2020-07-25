@@ -1,0 +1,44 @@
+[
+    {
+      "Name": "service1"
+    },
+    {
+      "Name": "service7"
+    },
+    {
+      "Name": "service2",
+      "Parent": "service1"
+    },
+    {
+      "Name": "service4",
+      "Parent": "service1"
+    },
+    {
+      "Name": "service5",
+      "Parent": "service1"
+    },
+    {
+      "Name": "service6",
+      "Parent": "service1"
+    },
+    {
+      "Name": "service8",
+      "Parent": "service1"
+    },
+    {
+      "Name": "service9",
+      "Parent": "service2"
+    },
+    {
+      "Name": "service10",
+      "Parent": "service5"
+    },
+    {
+      "Name": "service12",
+      "Parent": "service5"
+    },
+    {
+      "Name": "service11",
+      "Parent": "service10"
+    }
+]
